@@ -1,0 +1,25 @@
+body{ background: #FF0099;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #493240, #FF0099);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #493240, #FF0099); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    }
+    fieldset{ background: #BE93C5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #7BC6CC, #BE93C5);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #7BC6CC, #BE93C5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   
+border-radius: 3%;}
+    legend{font-family: 'Bricolage Grotesque', sans-serif;
+        font-family: 'Poppins', sans-serif;
+    font-size: larger;
+text-shadow:10px 10px 10px rgb(87, 39, 55);
+color: #230417;}
+.v{color: #230417;
+text-shadow: 10px 10px 10px rgb(84, 48, 60);
+font-size: larger;
+font-weight: bolder;}
+.f{color: #12072b;
+    text-shadow: 6px 6px 6px rgb(110, 89, 146);
+    font-size: large;
+    font-weight: bold;}
+    body{align-items: center;
+    align-content: center;}
+   
